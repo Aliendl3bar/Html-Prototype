@@ -3,5 +3,8 @@ node_modules/
 *.log
 .env
 *.txt
-README.md
+
+
+
+*.md
 
